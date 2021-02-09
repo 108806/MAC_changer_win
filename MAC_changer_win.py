@@ -2,9 +2,7 @@ import os
 
 print(os.getcwd())
 
-import codecs
 import re
-import string
 import subprocess
 import sys
 
